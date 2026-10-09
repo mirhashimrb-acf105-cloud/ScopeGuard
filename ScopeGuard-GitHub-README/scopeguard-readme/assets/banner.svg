@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="ScopeGuard AI banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061b13"/><stop offset=".55" stop-color="#0b3323"/><stop offset="1" stop-color="#07110e"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52f0a2"/><stop offset="1" stop-color="#b4ffcf"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#27b96f" stop-opacity=".26"/><stop offset="1" stop-color="#27b96f" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a8ffd1" stroke-opacity=".07" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="26" fill="url(#grid)"/>
+<circle cx="940" cy="142" r="290" fill="url(#halo)"/>
+<g fill="none" stroke="#83ffc1" stroke-opacity=".22" stroke-width="2"><path d="M790 85L925 27L1060 85V245L925 304L790 245Z"/><path d="M832 110L925 69L1018 110V221L925 262L832 221Z"/><path d="M875 138L925 116L975 138V195L925 216L875 195Z"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="72" y="92" fill="#8fffc5" font-size="20" font-weight="700" letter-spacing="5">THE NEUROBRIDGE STANDARD</text>
+<text x="69" y="172" fill="#ffffff" font-size="69" font-weight="800" letter-spacing="-2">ScopeGuard <tspan fill="url(#glow)">AI</tspan></text>
+<text x="73" y="216" fill="#c2dcd0" font-size="24">Verify the scope. Empower the human.</text>
+<rect x="72" y="252" width="350" height="39" rx="19.5" fill="#164b33" stroke="#469b70" stroke-opacity=".7"/>
+<text x="95" y="278" fill="#dcffeb" font-size="16" font-weight="700">V3  •  FINAL DEMO CANDIDATE</text>
+</g>
+</svg>
