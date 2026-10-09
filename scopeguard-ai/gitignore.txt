@@ -1,0 +1,11 @@
+# Streamlit secrets — never commit real credentials
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+.venv/
+venv/
+

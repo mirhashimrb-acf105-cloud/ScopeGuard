@@ -1,0 +1,6 @@
+streamlit
+requests
+pdfplumber
+thefuzz
+python-Levenshtein
+fpdf2
